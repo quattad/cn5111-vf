@@ -1,0 +1,4 @@
+Plant,Demand (kg),Seed cost per kg ($/kg),Seed cost per kg product ($/kg),Growth cycle without nutrients (days),Growth cycle (days),Cycles per year (cycle),Amount seed per area (kg/m2),Wholesale price ($/kg),Restaurant price ($/kg),Retail price ($/kg),Production (kg/m2.cycle),Water consumption per kg produce (L/kg),Price growth (%),Nutrients cost per produce ($/kg)
+Tomato,39857222.22,2400,0.0182,35,25,14.6,2.72E-05,0.826079823,1.44563969,1.652159646,9.8999505,88,0.042,0.410666667
+Cabbage,68746888.89,100,0.000833333,70,49,7.448979592,1.24E-05,0.53615417,0.938269797,1.07230834,8.999955,237,0.043,1.18
+Lettuce,17950888.89,30,0.006,50,35,10.42857143,9.88E-05,1.455879826,2.547789696,2.911759652,2.999985,152,0.024,0.76
